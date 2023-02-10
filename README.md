@@ -32,5 +32,5 @@
  
 
 ## 링크
-- [프로젝트 진행 코드 폴더](https://github.com/JungHunL22/Data-Visualization-PJT/tree/master/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0(%EB%B6%84%EC%84%9D%EC%BD%94%EB%93%9C))
-- [프로젝트 발표 자료](https://github.com/JungHunL22/Data-Visualization-PJT/blob/master/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- [프로젝트 진행 코드 폴더](https://github.com/JungHunL22/Final-PJT/tree/master/code)
+- [프로젝트 발표 자료](https://drive.google.com/file/d/11YK0DX3-cRosbpGXqkcdocg-FRm14C-l/view?usp=sharing)
