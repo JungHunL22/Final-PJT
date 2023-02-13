@@ -34,3 +34,4 @@
 ## 링크
 - [프로젝트 진행 코드 폴더](https://github.com/JungHunL22/Final-PJT/tree/master/code)
 - [프로젝트 발표 자료](https://drive.google.com/file/d/11YK0DX3-cRosbpGXqkcdocg-FRm14C-l/view?usp=sharing)
+- [웹페이지 시연 영상](https://drive.google.com/file/d/1e9pXzflx0IXIeh1ALPEyh6HlyuasFLRQ/view?usp=sharing)
